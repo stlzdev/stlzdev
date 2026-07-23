@@ -4,11 +4,11 @@ BCI Software Engineer @ Blackrock Neurotech<br>
 AI Engineer @ Sound of Earth<br>
 MEng Neuroengineering \\ BEng Artificial Intelligence & Neuroscience @ University of Pennsylvania <br>
 
-I'm an engineer and researcher building the next generation of neurotechnology. I bring five years of computational research experience in the neural mechanisms of memory consolidation and statistical learning, and I've led or co-led the development of seven technical projects into production-ready systems.
+I'm an engineer and scientist interested in building disruptive technologies that create an impact on human lives, such as brain-computer interfaces, self-driving cars and scent teleportation. I've led the development of seven technical projects into production-ready systems across industry, nonprofit and academia, and I bring five years of computational research experience in the neural mechanisms of memory consolidation and statistical learning. Outside of work, I enjoy reading philosophy, making videos and eating eggs. 
 
 In my free time, I enjoy reading philosophy, making videos and eating eggs.
 
-Connect with me at ```andrewzx@upenn.edu```
+Connect with me at ```awong@blackrockneuro.com```
 
 ## Skills
 
