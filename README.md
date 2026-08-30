@@ -10,7 +10,7 @@ I'm an engineer and scientist interested in building disruptive technologies tha
 
 |  |  |
 |---|---|
-| **Programming** | JavaScript · Java · Python · Go · TypeScript |
+| **Programming** | JavaScript · Java · Python · Go · C++ · TypeScript |
 | **Backend & Hardware** | Node.js · Linux · Git · Arduino |
 | **Data & ML** | PyTorch · Hugging Face · SQL · Polars · NumPy · SciPy · Pandas |
 | **Frontend** | React Native · HTML/CSS · Vite · Next.js · Tailwind |
