@@ -1,7 +1,7 @@
 ### Andrew Stellis W.
 
-BCI Software Engineer @ Blackrock Neurotech<br>
-AI Engineer @ Sound of Earth<br>
+BCI Software Engineer Intern @ Blackrock Neurotech<br>
+Backend and AI Systems Engineer @ Sound of Earth<br>
 MEng Neuroengineering \\ BEng Artificial Intelligence & Neuroscience @ University of Pennsylvania <br>
 
 I'm an engineer and scientist interested in building cool technologies and harnessing the power of the human brain. I've led the development of technical systems and products across industry, nonprofit and academia, and I bring five years of computational research experience in the neural mechanisms of memory consolidation and statistical learning. Outside of work, I enjoy reading philosophy, making videos and eating eggs. 
