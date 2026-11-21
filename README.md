@@ -5,18 +5,23 @@ Neuroscience Research Engineer @ Computational Memory Lab<br>
 Backend and AI Systems Engineer @ Sound of Earth<br>
 MEng Neuroengineering \\ BEng Artificial Intelligence & Neuroscience @ University of Pennsylvania <br>
 
-I'm an engineer and scientist interested in building cool technologies and harnessing the power of the human brain. I've led the development of technical systems and products across industry, nonprofit and academia, and I bring five years of computational research experience in the neural mechanisms of memory consolidation and statistical learning. Outside of work, I enjoy reading philosophy, making videos and eating eggs. 
+I'm an engineer and scientist interested in building cooler tech and smarter brains. I have 3+ years of experience in building technical systems and products across industry, nonprofit and academia, and 4+ years of computational research on human memory and statistical learning. 
+
+I believe that life is meaningful if one or both of two statements are true: either I am becoming a better person than I was yesterday, or I am making the world a better place than it was yesterday. I strive towards this goal in everything I do.
 
 ## Skills
 
 |  |  |
 |---|---|
-| **Programming** | JavaScript · Java · Python · Go · C++ · TypeScript |
-| **Backend & Hardware** | Node.js · Linux · Git · Arduino |
-| **Data & ML** | PyTorch · Hugging Face · SQL · Polars · NumPy · SciPy · Pandas |
-| **Frontend** | React Native · HTML/CSS · Vite · Next.js · Tailwind |
-| **Languages** | English (native) · Cantonese (native) · Mandarin (fluent) · German (conversational) · Indonesian (beginner) |
-| **Non-technical** | Memory athletics · Morse code · Videography · Endurance running |
+| **Programming** | Python · Go · JavaScript/TypeScript · C/C++ · Java |
+| **Machine Learning** | PyTorch · OpenCV · Hugging Face · Scikit-learn |
+| **Signals & Simulation** | MNE-BIDS · NEURON · Elephant · LSL |
+| **Data** | SQL (Postgres) · Polars · Pandas · Numpy · Scipy · Matplotlib |
+| **Hardware** | Arduino · Solidworks · Raspberry Pi · Analog Circuit Design |
+| **Backend** | Node.js · Flask · REST APIs |
+| **Frontend** | HTML/CSS · p5.js · Tailwind · Vite |
+| **Systems & Cloud** | Git · Linux · Docker · AWS · GitHub Actions · CI/CD |
+| **Languages** | English, Cantonese, Mandarin Chinese, German |
 
 ## Stats
 ![GitHub stats](https://github-readme-stats-7pc2idktc-andrew-wongs-projects-718d310b.vercel.app/api?username=stlzdev&show_icons=true&hide=stars,issues&include_all_commits=true) <br>
