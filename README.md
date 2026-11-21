@@ -1,6 +1,7 @@
 ### Andrew Stellis W.
 
 BCI Software Engineer Intern @ Blackrock Neurotech<br>
+Neuroscience Research Engineer @ Computational Memory Lab<br>
 Backend and AI Systems Engineer @ Sound of Earth<br>
 MEng Neuroengineering \\ BEng Artificial Intelligence & Neuroscience @ University of Pennsylvania <br>
 
