@@ -5,7 +5,7 @@ Neuroscience Research Engineer @ Computational Memory Lab<br>
 Backend and AI Systems Engineer @ Sound of Earth<br>
 MEng Neuroengineering \\ BEng Artificial Intelligence & Neuroscience @ University of Pennsylvania <br>
 
-I'm an engineer and scientist interested in building cooler tech and smarter brains. I have 3+ years of experience in building technical systems and products across industry, nonprofit and academia, and 4+ years of computational research on human memory and statistical learning. 
+I'm an engineer and scientist interested in building cooler tech and smarter brains. I have 3+ years of experience in building technical systems and products across industry, nonprofit and academia, and 4+ years of computational research on human memory and statistical learning, currently under Prof. Michael J. Kahana's mentorship.
 
 I believe that life is meaningful if one or both of two statements are true: either I am becoming a better person than I was yesterday, or I am making the world a better place than it was yesterday. I strive towards this goal in everything I do.
 
